@@ -30,7 +30,7 @@ namespace ReoGridStudy
         public Form1()
         {
             InitializeComponent();
-            LoadExcel();
+            //LoadExcel();
         }
 
         private void m_gridCtrl_Click(object sender, EventArgs e)
